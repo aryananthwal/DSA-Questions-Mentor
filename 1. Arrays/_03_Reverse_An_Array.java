@@ -12,7 +12,7 @@
 // Output:
 // [5, 4, 3, 2, 1]
 
-public class 03_Reverse_An_Array {
+public class _03_Reverse_An_Array {
     public int[] reverse(int nums[]){
         int n = nums.length;
         int left = 0;

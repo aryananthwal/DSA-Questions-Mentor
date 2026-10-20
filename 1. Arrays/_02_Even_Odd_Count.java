@@ -13,7 +13,7 @@
 // Even: 3
 // Odd: 2
 
-public class 02_Even_Odd_Count {
+public class _02_Even_Odd_Count {
     public void evenOrOdd(int nums[]){
         int n = nums.length;
         int evenCount = 0;
